@@ -1,0 +1,7 @@
+{
+  "name": "projeto3-fluxo-completo-de-ci",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Build executado com sucesso"
+  }
+}
